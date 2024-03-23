@@ -1,3 +1,4 @@
+![logo](https://github.com/Khushiii4704/Khushiii4704/blob/main/_Blue%20%26%20Yellow%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm khushi kasodiya</h1>
 <h3 align="center">A passionate data science entusiastic</h3>
 <img align= "right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif" height="300px">
